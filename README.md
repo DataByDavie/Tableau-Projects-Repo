@@ -177,3 +177,16 @@ This project demonstrated how Tableau can transform raw data into interactive, v
 `Pie Charts` `Business Intelligence`
 `Analytics` `Retail Data` `Sales Analysis`
 `Dashboard Design`
+
+---
+
+### My Dashboards
+[Link to Employment Dashboard](https://public.tableau.com/views/GBEmploymentData2011-2014/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+--
+
+[Link to Spotify Dashboard](https://public.tableau.com/views/SpotifyDataset_17901523967620/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+--
+
+[Link to Global Health Dashboard](https://public.tableau.com/views/GlobalHealthInsights-DavidF_/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
