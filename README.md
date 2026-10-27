@@ -3,7 +3,7 @@
 
 ## 🚀 Project Overview
 
-As part of my **Data Technician Bootcamp**, I developed a series of interactive Tableau dashboards to analyse and communicate insights from retail, sales, and analytical datasets. The project focused on transforming raw data into compelling visual stories through dashboards, filters, calculated fields, and a variety of chart types. Based on work completed in Data_Technician_Workbook_Week_2_ Tableau_Only.docx. 【1-4aa323】
+As part of my **Data Technician Bootcamp**, I developed a series of interactive Tableau dashboards to analyse and communicate insights from retail, sales, and analytical datasets. The project focused on transforming raw data into compelling visual stories through dashboards, filters, calculated fields, and a variety of chart types. Based on work completed in Data_Technician_Workbook_Week_2_ Tableau_Only.docx. 
 
 The aim was to create intuitive, user-friendly visualisations that enable stakeholders to explore trends, identify patterns, and make data-driven decisions.
 
@@ -131,7 +131,7 @@ Created a dashboard to analyse:
 - Song duration trends
 - Interactive music industry insights
 
-These projects strengthened my ability to build dashboards that communicate complex information in a clear and engaging way. 【1-4aa323】
+These projects strengthened my ability to build dashboards that communicate complex information in a clear and engaging way. 
 
 <img width="1223" height="653" alt="image" src="https://github.com/user-attachments/assets/941baf4b-d433-4b6c-b76e-8a64d4788068" />
 ---
